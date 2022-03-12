@@ -1,0 +1,21 @@
+{
+  "name": "firebase-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.8"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-beta.0",
+    "faker": "^6.6.6",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
